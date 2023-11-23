@@ -5,5 +5,8 @@ public class Demo {
         System.out.println("Erdinç tarafından buralar oluşturuldu");
         System.out.println("Deneme 2");
         String name = "Oguz";
+
+        String degisiklik = "Erdinc bunu ekledi";
+        System.out.println(degisiklik);
     }
 }
