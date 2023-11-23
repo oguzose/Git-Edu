@@ -8,5 +8,7 @@ public class Demo {
 
         String degisiklik = "Erdinc bunu ekledi";
         System.out.println(degisiklik);
+        int age = 24;
+        System.out.println(++age);
     }
 }
