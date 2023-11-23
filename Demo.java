@@ -2,5 +2,7 @@ public class Demo {
 
     public static void main(String[] args) {
         System.out.println("Deneme");
+        System.out.println("Deneme 2");
+        String name = "Oguz";
     }
 }
